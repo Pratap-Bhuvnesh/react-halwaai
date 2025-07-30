@@ -43,7 +43,7 @@ export default function Contact() {
                             </div>
 
                             <div className="flex items-center mt-4 text-gray-600">
-                                <svg
+                                <svg 
                                     fill="none"
                                     stroke="currentColor"
                                     stroke-linecap="round"
