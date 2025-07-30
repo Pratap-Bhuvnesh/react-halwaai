@@ -5,11 +5,11 @@ import Footer from './Footer/Footer.jsx'
 
 function Layout() {
   return (
-    <div>
+  <div>
       <Header />
       <Outlet />
       <Footer />
-    </div>
+  </div>
   )
 }
 
